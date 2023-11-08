@@ -1,0 +1,25 @@
+The aim of this project is build a tool that would enabled disabled students to get lecture notes based on recordings of their lectures. 
+
+The flow:
+1. Upload recording
+2. Recording is transcribed
+3. Transcription is summarised in the form of conscise but engageing notes/slides
+4. Additional information to include: required learning (what you need to know in order to understand the notes), reccommended learnings(areas to revise to expand understanding)
+5. Return the information.
+
+Backend
+1. Sign up and Login
+2. Database to store user details and user activity/history
+3. Payment handling 
+4. recording Upload
+5. recording to Transcription
+6. transcription to notes
+7. present notes
+
+
+Applications
+1. Build an audio transcription app using this tutorial
+https://www.youtube.com/watch?v=cNLXzXyuzUs
+
+2. Build an AI document ChatBot with this data 
+https://www.youtube.com/watch?v=riXpu1tHzl0 
